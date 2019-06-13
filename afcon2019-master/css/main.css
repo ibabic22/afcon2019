@@ -1,0 +1,45 @@
+.container{
+    padding:35px;
+    
+}
+
+
+
+.navbar {
+    background:gray;
+    width: 100%;
+    margin-bottom: 0;
+    border-radius: 0;
+  }
+
+  .list-group-item {
+    text-align: flex;
+    list-style: inside;
+    word-spacing: 4pt;
+    padding: 2px;
+   
+    vertical-align: middle;
+    font-size: 15px;
+    font-weight: 300;
+    color: #2c2d32;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
+ p{
+     word-spacing: 6px;
+ }
+
+ .list-group img {
+    
+    height: 50px;
+    
+    width:50px;
+  }
+
+  #home{
+    
+  }
+ 
+ 
